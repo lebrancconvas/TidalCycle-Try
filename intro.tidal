@@ -1,0 +1,7 @@
+d1 $ chunk 4 (hurry 2) $ every 3 (# crush 2) $ chunk 4 (hurry 2) $ sound "drum clap:4 [~ snare:4] bd"
+
+d2 $ n "c(4, 4) a f e" # sound "supermandolin" # legato 4
+
+d1 silence
+
+d2 silence 
